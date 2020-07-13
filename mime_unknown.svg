@@ -1,0 +1,7 @@
+<svg version="1.1" viewBox="0 0 16.014 16.014" xmlns="http://www.w3.org/2000/svg">
+ <g fill="#474747" fill-rule="evenodd">
+  <path d="M3.014 1.014a1 1 0 0 0-1 1v13a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1v-9.5a1 1 0 0 0-.293-.707l-3.5-3.5a1 1 0 0 0-.707-.293zm1 2H9.1l2.914 2.914v8.086h-8z" font-family="sans-serif" font-weight="400" overflow="visible" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none" white-space="normal"/>
+  <path d="m9.014 2.014v4h4z"/>
+ </g>
+ <path d="m7.7161 6.241c1.2049-0.067513 2.2719 0.85858 2.3394 2.0635 0 1.0288-0.27739 1.4104-1.1697 2.087-0.14016 0.10567-0.23923 0.18346-0.27519 0.22969-0.036691 0.0455-0.022749 0.02421-0.022749 0.02201 0.00514 0.3882-0.34637 0.73383-0.73383 0.73383-0.3882 0-0.73897-0.34563-0.73383-0.73383 0-0.36838 0.16438-0.692 0.34343-0.91729a2.8032 2.8032 0 0 1 0.52836-0.50414c0.14897-0.11741 0.33756-0.28179 0.50414-0.48139 0.068246-0.082189 0.094664-0.22602 0.091729-0.32142v-0.022015a0.72502 0.72502 0 0 0-0.78006-0.68833c-0.41315 0.022749-0.71108 0.32068-0.6876 0.73383h-1.4677c-0.067512-1.2057 0.85858-2.134 2.0635-2.2015zm0.13796 5.8706a0.73383 0.73383 0 1 1 0 1.4677 0.73383 0.73383 0 0 1 0-1.4677z" color="#bebebe" fill="#474747" overflow="visible" stroke-width=".73383"/>
+</svg>

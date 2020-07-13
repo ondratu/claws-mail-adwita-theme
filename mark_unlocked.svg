@@ -1,0 +1,13 @@
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <g fill="#474747" font-family="sans-serif" font-weight="400" white-space="normal">
+  <path d="M2.979 3.99a1 1 0 0 0-.604 1.791L8 10.281l5.625-4.5a1 1 0 1 0-1.25-1.562L8 7.719l-4.375-3.5a1 1 0 0 0-.646-.229z" overflow="visible" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none"/>
+  <path d="M2 3a1 1 0 0 0-1 1v9a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V4a1 1 0 0 0-1-1zm1 2h10v7H3z" overflow="visible" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none"/>
+ </g>
+ <rect x="7.4576" y="9.322" width="8.5593" height="6.6949" fill="#fff" stroke-width=".96437"/>
+ <g transform="matrix(.52629 0 0 .52542 7.0726 8.6441)" color="#bebebe" fill="#999">
+  <path d="m3 7h10c0.554 0 1 0.446 1 1v3c0 0.554-0.446 1-1 1h-10c-0.554 0-1-0.446-1-1v-3c0-0.554 0.446-1 1-1z" overflow="visible"/>
+  <path d="m2 10h12v4h-12z" overflow="visible"/>
+  <path d="m7 1c-1.645 0-3 1.355-3 3v6c0 1.645 1.355 3 3 3h2c1.645 0 3-1.355 3-3v-6c0-1.645-1.355-3-3-3zm0 2h2c0.571 0 1 0.429 1 1v6c0 0.571-0.429 1-1 1h-2c-0.571 0-1-0.429-1-1v-6c0-0.571 0.429-1 1-1z" font-weight="400" overflow="visible" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ </g>
+ <rect x="8.4915" y="11.593" width="2.3898" height=".72881" fill="#fff"/>
+</svg>

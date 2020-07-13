@@ -1,0 +1,6 @@
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <path d="m12 8.063a3 3 0 0 1-6 0 3 3 0 1 1 6 0z" fill="#808080"/>
+ <path d="m8 9-2 7h1l2-2 2 2h1l-2-7" fill="#808080" fill-rule="evenodd"/>
+ <ellipse cx="12.339" cy="12.441" rx="4.1695" ry="4.2712" fill="#fff" stroke-width=".97832"/>
+ <path class="error" d="m12.379 8.8076a3.5 3.5 0 1 0 0 7 3.5 3.5 0 0 0 0-7zm-2.5 2.969h5v1.031h-5z" color="#bebebe" fill="#ef2929" overflow="visible"/>
+</svg>

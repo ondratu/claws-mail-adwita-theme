@@ -1,0 +1,11 @@
+<svg version="1.1" viewBox="0 0 16.014 16.014" xmlns="http://www.w3.org/2000/svg">
+ <g fill="#474747" fill-rule="evenodd">
+  <path d="M3.014 1.014a1 1 0 0 0-1 1v13a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1v-9.5a1 1 0 0 0-.293-.707l-3.5-3.5a1 1 0 0 0-.707-.293zm1 2H9.1l2.914 2.914v8.086h-8z" font-family="sans-serif" font-weight="400" overflow="visible" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none" white-space="normal"/>
+  <path d="m9.014 2.014v4h4z"/>
+ </g>
+ <rect x="1.4155" y="4.7144" width="13.147" height="10.004" fill="#fff"/>
+ <g transform="matrix(.77037 0 0 .77037 1.7539 3.1477)" color="#000000" fill="#474747" font-weight="400" style="white-space:normal">
+  <path d="m2.979 3.99a1 1 0 0 0-0.604 1.791l5.625 4.5 5.625-4.5a1.0003 1.0003 0 1 0-1.25-1.562l-4.375 3.5-4.375-3.5a1 1 0 0 0-0.646-0.229z" overflow="visible" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none"/>
+  <path d="m2 3a1 1 0 0 0-1 1v9a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-9a1 1 0 0 0-1-1zm1 2h10v7h-10z" overflow="visible" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none"/>
+ </g>
+</svg>

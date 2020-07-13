@@ -1,0 +1,13 @@
+<svg version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <path d="M1 1a1 1 0 0 0-1 1v11s-.014.459.23.947C.476 14.436 1.168 15 2 15h12s.459.014.947-.23C15.436 14.525 16 13.833 16 13V6H3v7H2V6s0-1 1-1h11v-.832A1 1 0 0 0 13 3H8.414L6.707 1.293A1 1 0 0 0 6 1z" fill="#808080" fill-rule="evenodd" font-family="sans-serif" font-weight="400" overflow="visible" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ <g transform="translate(-1.6581 -.79765)" fill="#a08356" fill-rule="evenodd">
+  <path d="m2.679 10.293 5.849-5.851 3 3-5.83 5.873-4.026 1.072z"/>
+  <path d="m11.637 1.676c-0.2 0-0.4 0.077-0.554 0.23l-1.77 1.768 3.053 3.053 1.77-1.77a0.783 0.783 0 0 0 0-1.109l-1.944-1.941a0.782 0.782 0 0 0-0.555-0.23z" color="#000000" overflow="visible" style="isolation:auto;mix-blend-mode:normal"/>
+ </g>
+ <g transform="matrix(.66792 0 0 .64153 4.6236 4.1606)" fill="#c00">
+  <path d="m14.994 16h1v-1l-7-7-1 1z" fill-rule="evenodd"/>
+  <path d="M 6.994,0.586 0.58,7 1.994,8.414 8.408,2 Z" color="#000000" fill-rule="evenodd" font-weight="400" overflow="visible" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  <path d="m6.752 15.243a6 6 0 0 1 0-8.486 6 6 0 0 1 8.485 0l-4.243 4.243z"/>
+  <path d="m1.922 6.995 5.7 4.433 3.8-3.8-4.428-5.628z" fill-rule="evenodd"/>
+ </g>
+</svg>
